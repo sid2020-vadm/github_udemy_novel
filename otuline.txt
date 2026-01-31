@@ -1,2 +1,2 @@
 Chapter1
--Nick,Tom,Daisy and Jordan
+-Nick,Tom,Daisy and jordan
